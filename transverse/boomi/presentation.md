@@ -112,4 +112,5 @@ Il est particulièrement adapté aux environnements hybrides combinant cloud et 
 ![logo_boomi_1.png](https://raw.githubusercontent.com/vle90035-viseo/public_img/main/assets/wiki/transverse/boomi/logo_boomi_1000x1000.png =100)
 ![logo_boomi_1.png](https://raw.githubusercontent.com/vle90035-viseo/public_img/main/assets/wiki/transverse/boomi/logo_boomi_1000x1000.png =100x100)
 ![logo_boomi_1.png](https://raw.githubusercontent.com/vle90035-viseo/public_img/main/assets/wiki/transverse/boomi/logo_boomi_1000x1000.png)
+![logo_boomi_1.png](/assets/images/electrocat.png?raw=true)
 
