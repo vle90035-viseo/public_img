@@ -109,4 +109,4 @@ Il est particulièrement adapté aux environnements hybrides combinant cloud et 
 
 # Assets 
 
-![logo_boomi_1.png](https://vsod.sharepoint.com/:i:/r/sites/PMS24x7/Documents%20partages/Transverse/Asset_wikijs/Boomi/logo_boomi_1000x1000.png =100x)
+![logo_boomi_1.png](/public_img/assets/wiki/transverse/boomi/logo_boomi_1000x1000.png)
