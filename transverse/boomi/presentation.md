@@ -1,9 +1,10 @@
 # Introduction
 
 > **Boomi** est une plateforme d’intégration cloud (iPaaS – Integration Platform as a Service)
-> 
+
+> [!NOTE]
 > Elle permet de connecter des applications, des bases de données et des services cloud afin qu’ils puissent échanger des données automatiquement. Boomi sert d’intermédiaire entre les systèmes
-{.is-info}
+
 
 
 **Boomi** est une plateforme d’intégration qui permet :
