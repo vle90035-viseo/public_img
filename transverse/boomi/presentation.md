@@ -109,4 +109,5 @@ Il est particulièrement adapté aux environnements hybrides combinant cloud et 
 
 # Assets 
 
-![logo_boomi_1.png](/public_img/assets/wiki/transverse/boomi/logo_boomi_1000x1000.png)
+![logo_boomi_1.png](https://raw.githubusercontent.com/vle90035-viseo/public_img/assets/wiki/transverse/boomi/logo_boomi_1000x1000.png)
+
